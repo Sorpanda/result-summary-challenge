@@ -49,7 +49,6 @@ body{
     place-content: center;
     font-family: 'Hanken Grotesk';
     font-size: 1.8rem;
-    background-color: var(--pale-blue);
 }
 
 .main-card{
